@@ -1,2 +1,2 @@
 # SpriteKit
-Sprite Kit Game
+Sprite Kit Games
